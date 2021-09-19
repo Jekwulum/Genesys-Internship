@@ -1,0 +1,45 @@
+body{
+    background-color: rgb(216, 216, 216);
+    color: chocolate;
+}
+
+h2{
+    padding-left: 6%;
+    margin-bottom: 1%;
+}
+
+.container{
+    position: relative;
+    justify-content: center;
+    left: 35%;
+    align-items: center;
+}
+
+.child{
+    width: 320px;
+    height: 500px;
+    background-color: #331e1e;
+/*     position: absolute; */
+    top: 50%;
+    left: 50%;
+    border-radius: 10px;
+    font-size: 32px6+9++;
+}
+
+*{
+    box-sizing: border-box;
+}
+
+button{
+    border-radius: 12px;
+    width: 100px;
+    height: 32px;
+    color: #791ed2;
+    background-color: #cfc3ff;
+}
+#task{
+    width: 215px;
+    height: 30px;
+    border-radius: 12px;
+    border-color: chocolate;
+}
